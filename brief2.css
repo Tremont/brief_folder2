@@ -13,3 +13,19 @@ p {
      border-radius: 50%;
      margin-left: 26px;
 }
+
+.liststyle {
+  margin: 0px;   
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  font-size: 20px;
+
+}
+.banner {
+width: 100%;
+
+box-shadow: 0 0 30px #333;
+
+}

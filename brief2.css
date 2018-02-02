@@ -15,7 +15,7 @@ p {
 }
 
 .liststyle {
-  margin: 0px;   
+  margin: 0px;
   padding: 20px;
   display: flex;
   justify-content: space-between;
@@ -25,7 +25,10 @@ p {
 }
 .banner {
 width: 100%;
+}
 
-box-shadow: 0 0 30px #333;
-
+.navname {
+  background: #DEADAD;
+  box-shadow: 10px 5px 5px #DEADAD;
+  border: 2px solid #AB7878
 }

@@ -1,5 +1,5 @@
 body  {
-    background-image: url("pexels-photo-804564.jpeg");
+    background-image: url("pexels-photo-tech.jpeg");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -37,4 +37,19 @@ width: 100%;
   width: 50px;
   length: 50px;
   padding-top: 10px;
+}
+
+.test {
+  background-color: purple;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #DEADAD;
+    color: white;
+    text-align: center;
+    border: 2px solid #AB7878;
 }
